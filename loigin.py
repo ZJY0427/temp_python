@@ -8,3 +8,6 @@ a = 1
 
 def index():
 	return 'hello manager'
+
+def fei():
+	return '我去，你打我啊，不打我你就叫爸爸'
