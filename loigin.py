@@ -11,6 +11,8 @@ def index():
 def fei():
 	return '我去，你打我啊，不打我你就叫爸爸'
 
+d = 4
+
 
 c = 3
 
