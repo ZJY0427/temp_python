@@ -4,7 +4,6 @@ a = 1
 
 ＃　对啊，我就是瞟了，你打我啊
 
-# 小屁孩，等爷爷打死你
 
 def index():
 	return 'hello manager'
